@@ -26,7 +26,7 @@ public class InputController : MonoBehaviour {
 
         }
 
-        if (Input.GetButton("Fire3")) {
+        if (Input.GetButton("Jump")) {
             if (!fireBlocked) {
                 Invoke("UnblockFire", .75f);
                 fireBlocked = true;

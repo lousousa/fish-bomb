@@ -20,7 +20,13 @@ public class TitleScreen : MonoBehaviour {
     }
 
     public void OnClickStart() {
-        SceneManager.LoadScene(1);
+        // SceneManager.LoadScene(1);
+    }
+
+    private void Update() {
+        if (Input.GetButton("Fire3")) {
+            SceneManager.LoadScene(1);
+        }
     }
 
 }
