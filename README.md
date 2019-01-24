@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a project of a simple game just for fun and practice of Unity engine using. It is a shooter about a war between fishes, they attack using bubble shots, and you just have to defeat all the enemies to advance to the next level. You can play it on the [this link](https://www.bloomgames.com.br/fish-bomb/web/).
+This is a project of a simple game just for fun and practice of Unity engine using. It is a "bullet-hell" game about a war between fishes, and they attack each other using bubble shots, so you just have to defeat all the enemies to advance to the next level. You can play it on the [this link](https://www.bloomgames.com.br/fish-bomb/web/).
 
 <p align="center">
     <br/>
